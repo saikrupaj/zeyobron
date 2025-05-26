@@ -2,4 +2,4 @@
 
 Data engineering course
 Hi Sai
-![Bharatiya Fashion](https://example.com/images/tgt-banner.jpg)
+![Bharatiya Fashion](https://ibb.co/dHGpjpW)
